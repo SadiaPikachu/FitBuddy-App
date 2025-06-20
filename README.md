@@ -1,6 +1,7 @@
 # FitBuddy.apk
 
 *FitBuddy* is a user-friendly mobile application developed using MIT App Inventor. It is designed to assist users in tracking key health metrics, including **BMI**, **BMR**, **TDEE**, and **Minimum daily water intake**, and **Step Counting** for physical activity.
+
 ![image alt](https://github.com/SadiaPikachu/FitBuddy-App/blob/de98f716360ce7ed2ca922c27f2e266e11827b4c/image1.jpg) ![image alt](https://github.com/SadiaPikachu/FitBuddy-App/blob/de98f716360ce7ed2ca922c27f2e266e11827b4c/image2.jpg)
 ##  Features
 
