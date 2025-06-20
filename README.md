@@ -4,19 +4,19 @@
 ![image alt](https://github.com/SadiaPikachu/FitBuddy-App/blob/de98f716360ce7ed2ca922c27f2e266e11827b4c/image1.jpg) ![image alt](https://github.com/SadiaPikachu/FitBuddy-App/blob/de98f716360ce7ed2ca922c27f2e266e11827b4c/image2.jpg)
 ##  Features
 
-* *BMI (Body Mass Index) Calculator*
+* **BMI (Body Mass Index) Calculator:**
   Calculates BMI based on height and weight to categorize weight status.
 
-* *BMR (Basal Metabolic Rate) Calculator*
+* **BMR (Basal Metabolic Rate) Calculator:**
   Estimates the number of calories required to maintain basic physiological functions at rest.
 
-* *TDEE (Total Daily Energy Expenditure) Calculator*
+* **TDEE (Total Daily Energy Expenditure) Calculator:**
   Provides an estimate of daily calorie needs based on BMR and activity level.
 
-* *Water Intake Estimator*
+* **Water Intake Estimator:**
   Recommends the minimum amount of daily water intake based on body weight.
 
-* *Step Counter*
+* **Step Counter:**
   Tracks user steps using device sensors.
   
 
